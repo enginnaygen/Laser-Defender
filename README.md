@@ -1,2 +1,2 @@
 # Laser-Defender
-Garry Pettie Lecture Quiz Master Game, Fundementals of Unity
+Garry Pettie Lecture Laser Defender Game, Fundementals of Unity
